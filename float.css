@@ -1,0 +1,21 @@
+
+.left{
+    height: 370px;
+    width: 50%;
+    background-color: blue;
+    float: left;
+    background-image: url(image.jpg);
+    background-size: cover;
+}
+.right{
+    color: brown;
+    width: 49.8%;
+    float: right;
+    height: 370px;
+    text-align: justify;
+}
+.para{
+    color: blue;
+    clear: both;
+    text-align: justify;
+}
